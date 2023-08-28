@@ -23,6 +23,6 @@ Examining pizza sales and income in 2015 and making better decisions to increase
 11. Bottom 5 Pizzas by Total Orders
 
 You can also refer to the PowerPoint presentation file for a preview of the project in addition to the images below.
-![Project Preview](https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/548d0694b51578b8d4771ed1e0a5e06076015553/Project%20Preview(1).png)
-![Project Preview](https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/2c6b4184ee9c87ce7ea6a06417b6d8ef05cb3135/Project%20Preview(2).png)
+![Project Preview](https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/40b18f36ddb5c87df78858503de61d9bdd8666e7/Project-Preview%201.png)
+![Project Preview](https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/40b18f36ddb5c87df78858503de61d9bdd8666e7/Project-Preview%202.png)
 

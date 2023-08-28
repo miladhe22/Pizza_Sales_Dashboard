@@ -22,4 +22,4 @@ Examining pizza sales and income in 2015 and making better decisions to increase
 10. Top 5 Pizzas by Total Orders
 11. Bottom 5 Pizzas by Total Orders
 
-(https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/548d0694b51578b8d4771ed1e0a5e06076015553/Project%20Preview(1).png)[Project Preview]!
+![Project Preview](https://github.com/miladhe22/Pizza_Sales_Dashboard/blob/548d0694b51578b8d4771ed1e0a5e06076015553/Project%20Preview(1).png)
